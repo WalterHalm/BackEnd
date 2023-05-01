@@ -94,6 +94,12 @@
                      <version>2.5.2</version>
                      <type>jar</type>
               </dependency>
+               <!-- SWAGGER-UI  (http://localhost:8080/swagger-ui/index.html)-->  
+   <dependency>  
+    <groupId>org.springdoc</groupId>
+    <artifactId>springdoc-openapi-ui</artifactId>
+    <version>1.6.4</version>
+</dependency>
 
        </dependencies>
 <build>
